@@ -2,3 +2,5 @@ data_set
 masks
 *.jpg
 *.zip
+*.docx
+*.tmp
